@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+---
+This is me, another nerd in the universe.
+
+Love Maths, coding, photography, bike, nature, and many things, which is a problem as time is not infinite.
+
+- 📫 How to reach me: [twitter](twitter.com/tioborracho)
+
 
 <!--
 **TioBorracho/TioBorracho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
